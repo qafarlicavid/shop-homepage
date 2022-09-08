@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.right .r-button{
+    border: 1px solid black;
+}
+.header{
+    padding: 0 10rem;
+}
+header{
+    text-align: center;
+    background-color: #212529;
+    color: #fff;
+    padding: 6rem 0;
+}
+header h1{
+    font-size: 56px;
+}
+header p{
+    font-size: 20px;
+    opacity: 0.5;
+}
+.btn-border{
+    border: 1px solid #212529;
+}
+
+.card-body-design{
+    text-align: center;
+}
+.star i{
+    color: #ffc107;
+    font-size: 14px;
+}
+footer{
+    background-color: #212529;
+    color: #fff;
+    padding: 2rem 0;
+}
